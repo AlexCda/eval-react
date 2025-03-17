@@ -1,0 +1,40 @@
+
+.home-page {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.home-page h1 {
+font-size: 2.5rem;
+margin-bottom: 1rem;
+color: #e74c3c;
+}
+
+.home-page p {
+font-size: 1rem;
+margin-bottom: 1.5rem;
+line-height: 1.6;
+}
+
+.home-page ul {
+list-style: none;
+padding: 0;
+margin: 1.5rem 0;
+}
+
+.home-page ul h2 {
+font-size: 1.5rem;
+margin-bottom: 0.5rem;
+color: #34495e;
+}
+
+.home-page ul li {
+font-size: 1rem;
+margin: 0.5rem 0;
+}
+  
